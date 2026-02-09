@@ -1,20 +1,27 @@
-## Hi there 👋
+<div align="center">
+  
+<div>
+  Hi there — I'm <strong>Leya</strong> 👋
+</div>
+ ❤ and thats chii ->
+<img src="https://swirl.neocities.org/sozai/mediums/546677m95gpbskkb.gif" alt="chii">
 
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=wbOSHello&title=Leya&desc=ello%7E+I%27m+Leya.+I%27m+a+19yo+programmer+working+for+a+digitalisation+company+in+Germany.+Currently+I+am+coding+my+own+OS+based+on+ARCH+%3C3&theme=dark)](https://github.com/your-username/your-repo)
+  <br><br>
+  
+  <img src="https://sakuradreams.neocities.org/Divider01.gif">
+  <img src="https://sakuradreams.neocities.org/Divider01.gif">
+  
+  <br><br>
 
-0118 999 881 999 119 725 3
+  🌸 <b>currently working on</b> ··· ✧ WingBeatOS ✧<br>
+  🌱 <b>learning</b> ··· CMake, DevOps, Java, ..<br>
+  💞 <b>open to collaborating on</b> ··· cute and/or useful projects<br>
+  💬 <b>ask me about</b> ··· anything you’re curious about<br>
+  💌 <b>reach me at</b> ··· magic emails & good vibes<br>
+  😄 <b>pronouns</b> ··· she / her<br>
+  ⚡ <b>fun fact</b> ··· probably drinks too much Effect
+<br><br>
 
-<!--
-**leyaverse/leyaverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In case I don't see ya, good afternoon, good evening and good night.
+  ![wave](https://swirl.neocities.org/sozai/kao/yuyu_tehe.gif)
+</div>
