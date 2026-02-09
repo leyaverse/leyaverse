@@ -25,3 +25,8 @@
 In case I don't see ya, good afternoon, good evening and good night.
   ![wave](https://swirl.neocities.org/sozai/kao/yuyu_tehe.gif)
 </div>
+
+<hr>
+<!-- FC2 Counter  Starts here -->
+<img src="//counter1.fc2.com/counter_img.php?id=40723075&main=1" />
+<!-- FC2 Counter  Ends here -->
