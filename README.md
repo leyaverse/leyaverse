@@ -28,7 +28,8 @@ U can also text me, as long u aren't an <i>idiot~</i>
   💬 <b>Discord: </b> @leyaverse<br>
   <i>If u write me, pls say that u are coming from this page. I fear unknown people and wouldnt answer!</i>
 
+\- - -
 
-In case I don't see ya, good afternoon, good evening and good night.
+𝒊𝒏 𝒄𝒂𝒔𝒆 𝒊 𝒅𝒐𝒏'𝒕 𝒔𝒆𝒆 𝒚𝒂, 𝒈𝒐𝒐𝒅 𝒂𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒏, 𝒈𝒐𝒐𝒅 𝒆𝒗𝒆𝒏𝒊𝒏𝒈 𝒂𝒏𝒅 𝒈𝒐𝒐𝒅 𝒏𝒊𝒈𝒉𝒕.
   ![wave](https://swirl.neocities.org/sozai/kao/yuyu_tehe.gif)
 </div>
